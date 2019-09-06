@@ -12,3 +12,10 @@ E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.Properties.Res
 E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
 E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.dll
 E:\Project\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.pdb
+D:\NetVideoPlayer\MetroFramework\bin\Debug\MetroFramework.dll
+D:\NetVideoPlayer\MetroFramework\bin\Debug\MetroFramework.pdb
+D:\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+D:\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+D:\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+D:\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.dll
+D:\NetVideoPlayer\MetroFramework\obj\Debug\MetroFramework.pdb

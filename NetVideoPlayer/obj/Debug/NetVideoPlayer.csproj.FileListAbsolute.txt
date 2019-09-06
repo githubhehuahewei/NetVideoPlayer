@@ -24,3 +24,12 @@ C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer
 C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\Interop.APlayer3Lib.dll
 C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\AxInterop.APlayer3Lib.dll
 C:\Users\JinMo Ye\Desktop\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.ResolveComReference.cache
+D:\NetVideoPlayer\NetVideoPlayer\bin\Debug\NetVideoPlayer.exe.config
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.ResolveComReference.cache
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csprojResolveAssemblyReference.cache
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.About.resources
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.FormSubtilte.resources
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Main.resources
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.MessageBoxFX.resources
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.Properties.Resources.resources
+D:\NetVideoPlayer\NetVideoPlayer\obj\Debug\NetVideoPlayer.csproj.GenerateResource.Cache

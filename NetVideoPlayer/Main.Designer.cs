@@ -696,11 +696,11 @@
             this.Label_Main_Download_CurrentSpeed.LabelMode = MetroFramework.Controls.MetroLabelMode.Default;
             this.Label_Main_Download_CurrentSpeed.Location = new System.Drawing.Point(291, 249);
             this.Label_Main_Download_CurrentSpeed.Name = "Label_Main_Download_CurrentSpeed";
-            this.Label_Main_Download_CurrentSpeed.Size = new System.Drawing.Size(166, 25);
+            this.Label_Main_Download_CurrentSpeed.Size = new System.Drawing.Size(162, 25);
             this.Label_Main_Download_CurrentSpeed.Style = MetroFramework.MetroColorStyle.Green;
             this.Label_Main_Download_CurrentSpeed.StyleManager = this.MetroStyleManager;
             this.Label_Main_Download_CurrentSpeed.TabIndex = 13;
-            this.Label_Main_Download_CurrentSpeed.Text = "预加载中 - 500 KB/s";
+            this.Label_Main_Download_CurrentSpeed.Text = "预加载中 - 512KB/s";
             this.Label_Main_Download_CurrentSpeed.Theme = MetroFramework.MetroThemeStyle.Dark;
             this.Label_Main_Download_CurrentSpeed.UseStyleColors = false;
             // 
@@ -1351,7 +1351,7 @@
             this.PanelConfig.HorizontalScrollbarBarColor = false;
             this.PanelConfig.HorizontalScrollbarHighlightOnWheel = true;
             this.PanelConfig.HorizontalScrollbarSize = 10;
-            this.PanelConfig.Location = new System.Drawing.Point(-54, 4);
+            this.PanelConfig.Location = new System.Drawing.Point(-63, 4);
             this.PanelConfig.Margin = new System.Windows.Forms.Padding(8);
             this.PanelConfig.Name = "PanelConfig";
             this.PanelConfig.Size = new System.Drawing.Size(996, 652);
@@ -1454,7 +1454,7 @@
             this.Label_Config_About_Version.Location = new System.Drawing.Point(210, 602);
             this.Label_Config_About_Version.Margin = new System.Windows.Forms.Padding(6);
             this.Label_Config_About_Version.Name = "Label_Config_About_Version";
-            this.Label_Config_About_Version.Size = new System.Drawing.Size(147, 25);
+            this.Label_Config_About_Version.Size = new System.Drawing.Size(151, 25);
             this.Label_Config_About_Version.Style = MetroFramework.MetroColorStyle.Green;
             this.Label_Config_About_Version.StyleManager = this.MetroStyleManager;
             this.Label_Config_About_Version.TabIndex = 29;
